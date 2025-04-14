@@ -74,10 +74,11 @@ table {
   font-family: 'Courier New', Courier, monospace;
   background-color: #f9f9f9;
   color: #000;
+  border: solid black 2px;
 }
 
 thead {
-  background-color: #4b4949;
+  background-color: #000000;
   color: #fff;
 }
 
@@ -130,6 +131,9 @@ th {
 .searchbar{
   width: 20vw;
   float: left;
+}
+p{
+  margin-top: -40px;
 }
 
 
