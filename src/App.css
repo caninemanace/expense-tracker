@@ -127,5 +127,9 @@ th {
     color: #555;
   }
 }
+.searchbar{
+  width: 20vw;
+  float: left;
+}
 
 
